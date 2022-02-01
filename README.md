@@ -32,4 +32,4 @@
 2. Run the test in ``/tests/modeltests`` and ``/tests/controllertests`` dir:
 <br>``go test -v``
 3. You can run all tests in ``/tests``
-<br>``go test -v``
+<br>``go test -v ./...``
