@@ -1,4 +1,11 @@
 # go-geolocation
+<p align="center">CRUD for users and address registration via geolocation.</p>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=RED&style=for-the-badge"/>
+
+
+### Features
+- [ ] Implement the global system position(GPS).
+- [ ] When entering the address this application will show the geolocation of the entered address storing asynchronously in the database.
 
 ## Requirements
 * go 1.17.3
